@@ -204,8 +204,6 @@ print(result["recommendations"]) # → [...]
 **Q: How would you deploy this?**
 > Package the `predict()` function behind a FastAPI endpoint, containerize with Docker, and deploy to AWS Lambda or a cloud VM. The Streamlit app demonstrates the UI layer already.
 
-**Q: How did you handle class imbalance?**
-> Used `class_weight="balanced"` in all classifiers and evaluated on weighted F1 score to prevent grade-A bias in the majority class.
 
 ---
 
