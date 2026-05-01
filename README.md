@@ -67,12 +67,12 @@ Best Model Selection (Random Forest ~91% accuracy)
 | `internet_access` | binary | Home internet availability |
 | `parental_education` | ordinal | Highest parental education level |
 | `social_media_hours` | float | Daily social media use |
-| `engagement_score` ⭐ | float | *Engineered*: weighted composite |
-| `study_x_attend` ⭐ | float | *Engineered*: interaction feature |
-| `consistency` ⭐ | float | *Engineered*: assignment vs marks gap |
-| `attendance_band` ⭐ | int | *Engineered*: ordinal attendance tier |
-| `healthy_sleep` ⭐ | binary | *Engineered*: 1 if 6–9 hours |
-| `learning_support` ⭐ | float | *Engineered*: internet + tutoring composite |
+| `engagement_score`  | float | *Engineered*: weighted composite |
+| `study_x_attend`  | float | *Engineered*: interaction feature |
+| `consistency`  | float | *Engineered*: assignment vs marks gap |
+| `attendance_band`  | int | *Engineered*: ordinal attendance tier |
+| `healthy_sleep`  | binary | *Engineered*: 1 if 6–9 hours |
+| `learning_support`  | float | *Engineered*: internet + tutoring composite |
 
 ### Target Variables
 
@@ -88,14 +88,14 @@ Best Model Selection (Random Forest ~91% accuracy)
 
 | Model | Accuracy | F1 (weighted) | CV Score |
 |---|---|---|---|
-| **Random Forest** ✅ | **91.4%** | **0.902** | 90.8% ±1.2% |
+| **Random Forest**  | **91.4%** | **0.902** | 90.8% ±1.2% |
 | Gradient Boosting | 89.7% | 0.881 | 89.1% ±1.5% |
 | SVM | 85.3% | 0.839 | 84.6% ±1.8% |
 | Logistic Regression | 82.1% | 0.807 | 81.5% ±2.1% |
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 Student-Performance-Prediction/
@@ -134,7 +134,7 @@ Student-Performance-Prediction/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. Clone & install
 
@@ -193,7 +193,7 @@ print(result["recommendations"]) # → [...]
 
 ---
 
-## 🎓 Interview Talking Points
+##  Interview Talking Points
 
 **Q: Why synthetic data?**
 > Real student data is privacy-sensitive (FERPA/GDPR). Synthetic data lets us build the same pipeline, validate the architecture, and demonstrate ML skills without privacy issues — a standard approach at EdTech companies.
