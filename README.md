@@ -223,12 +223,12 @@ print(result["recommendations"]) # → [...]
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
-Built by **[Your Name]** as a portfolio project for Data Science / ML Engineer roles.
+Built by **Shruti Srivastava** as a portfolio project for Data Science / ML Engineer roles.
 
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub:(https://github.com/Suru2005-shri)
+- LinkedIn: www.linkedin.com/in/shruti-srivastava-36b26232a
 <p align="center">
   <img src="https://raw.githubusercontent.com/Suru2005-shri/Student-Prediction-System/main/images/correlation_heatmap.png" width="48%" alt="Correlation_heatmap" />
   <img src="https://raw.githubusercontent.com/Suru2005-shri/Student-Prediction-System/main/images/feature_importance.png" width="48%" alt="feature_importance" />
@@ -246,6 +246,6 @@ Built by **[Your Name]** as a portfolio project for Data Science / ML Engineer r
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — free to use, modify, and share.
