@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction System v2.0
+#  Student Performance Prediction System v2.0
 
 > End-to-end ML pipeline that predicts student grades, identifies at-risk learners, and generates personalized academic recommendations — built for Data Science & ML portfolio showcase.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project builds a complete, production-style machine learning system that predicts student academic performance (A/B/C/D/F) and flags students at risk of failing — using entirely **synthetic, public-domain data** that mimics real-world school datasets.
 
@@ -24,7 +24,7 @@ This project builds a complete, production-style machine learning system that pr
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Student Data (1,000 records)
@@ -51,7 +51,7 @@ Best Model Selection (Random Forest ~91% accuracy)
 
 ---
 
-## 📊 Features
+##  Features
 
 ### Input Features (17 raw + 6 engineered)
 
