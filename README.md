@@ -229,6 +229,20 @@ Built by **[Your Name]** as a portfolio project for Data Science / ML Engineer r
 
 - GitHub: [@your_username](https://github.com/your_username)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suru2005-shri/Student-Prediction-System/main/images/correlation_heatmap.png" width="48%" alt="Correlation_heatmap" />
+  <img src="https://raw.githubusercontent.com/Suru2005-shri/Student-Prediction-System/main/images/feature_importance.png" width="48%" alt="feature_importance" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suru2005-shri/Student-Prediction-System/main/images/model_comparison.png" width="48%" alt="comparsiion"/>
+  <img src="https://raw.githubusercontent.com/Suru2005-shri/Student-Prediction-System/main/images/parental_education_effect.png" width="48%" alt="Eduaction" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suru2005-shri/Student-Prediction-System/main/images/score_distribution.png" width="70%" alt="score_distribution" />
+</p>
+
 
 ---
 
